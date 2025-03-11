@@ -3,14 +3,15 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-community_netinfo</artifactId>
   <versioning>
-    <latest>9.4.1-jitsi-19540161</latest>
-    <release>9.4.1-jitsi-19540161</release>
+    <latest>9.4.1-jitsi-19540402</latest>
+    <release>9.4.1-jitsi-19540402</release>
     <versions>
       <version>9.4.1-jitsi-19505478</version>
       <version>9.4.1-jitsi-19505584</version>
       <version>9.4.1-jitsi-19539489</version>
       <version>9.4.1-jitsi-19540161</version>
+      <version>9.4.1-jitsi-19540402</version>
     </versions>
-    <lastUpdated>20250311131334</lastUpdated>
+    <lastUpdated>20250311135342</lastUpdated>
   </versioning>
 </metadata>
